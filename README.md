@@ -1,2 +1,2 @@
-# cv - Muhamad Rafli Maulana Rizki
+# CV-Muhamad Rafli Maulana Rizki
 My Curriculum Vitae
