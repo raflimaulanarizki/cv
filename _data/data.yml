@@ -97,32 +97,32 @@ publications:
   - title: Mikrotik Certified Network Associate (MTCNA)
     link: "https://drive.google.com/file/d/1kcV-b2YVJpPRYtkg-ijnUTix3bXPipx0/view"
     authors: 
-    conference: 
+    conference: |
 
   - title: CompTIA PenTest+
     link: "https://www.credly.com/badges/7b4ee2e0-5efc-4b44-9402-b2acea7bd32e?source=linked_in_profile"
     authors: 
-    conference: 
+    conference: |
 
   - title: NSE 1 Network Security Associate
     link: "https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=6ZZgdYovO7&qrcode=1"
     authors: 
-    conference: 
+    conference: |
 
   - title: "CCNA: Introduction to Networks"
     link: "https://www.credly.com/badges/35e74416-9c4a-4f77-8946-2375718c5a57?source=linked_in_profile"
     authors: 
-    conference: 
+    conference: |
 
   - title: "CCNA: Switching, Routing, and Wireless Essentials"
     link: "https://www.credly.com/badges/1d5681cd-9658-468a-baf3-7b51b8bf9fd5/public_url"
     authors: 
-    conference: 
+    conference: |
 
   - title: "CCNA: Enterprise Networking, Security, and Automation"
     link: "https://www.credly.com/badges/761ac2c0-6db4-4203-8ccd-a972efcd42ee/linked_in_profile"
     authors: 
-    conference: 
+    conference: |
 
 projects:
   - title: Cisco Networking
