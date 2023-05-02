@@ -113,8 +113,22 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  - time: November 2022
+    role: 1nd Winner Computer Networking DINAMIK#17
+    company: Universitas Pendidikan Indonesia, Bandung
+    details: 
+
+  - time: September 2022
+    role: 3nd Winner IT FEST Network Competition
+    company: IDN Boarding School Indonesia, Jonggol
+    details: 
+  
+  - time: November 2022
+    role: 3nd Winner TKJ Packet Tracer Integer#4
+    company: Universitas Pendidikan Ganesha Indonesia, Bali
+    details: 
+
+  - time: Oktober 2022
+    role: 3nd rank Bootcamp Cisco (CCNA)
+    company: ID-Networkers
+    details: 
