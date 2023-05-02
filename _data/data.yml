@@ -51,19 +51,21 @@ experience:
       - Perform network troubleshoot <br>
       - Fiber optic installation in each department for internet distribution <br>
       - Operate PROXMOX virtualization <br>
-      - Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, Bridging, Load Balance) <br>
+      - Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, <br>
+        Bridging, Load Balance) <br>
       - Provisioning Access Point using UniFi Controller & Ruijie Cloud <br> 
       - Network device maintenance (Mikrotik, Cisco, UniFi, Server, Ruijie) <br>
       - Network installation for preparation of UTBK 2022 in every classroom using unifi <br>
       - Install public network for LKS (Cyber Security & Web Admin) competition <br>
-      - Network installation for preparation of PAS 2022/2023 in every classroom using Unifi & Ruijie <br>
+      - Network installation for preparation of PAS 2022/2023 in every classroom using <br> 
+        Unifi & Ruijie <br>
       - Network monitoring using The Dude <br>
       - Make the Network topology of SMKN 1 Cibinong in Visio <br>
       - install controller unifi version 7 on ubuntu server <br>
       - Migration of unifi controller version 5 to version 7 <br>
       - Install monitoring zabbix for SMKN 1 cibinong <br>
       - integrate zabbix with telegram and grafana <br>
-      - Install Proxmox Virtualization on Dell EMC and Proxmox Backup Server on Dell R530 Servers. <br>
+      - Install Proxmox Virtualization and Proxmox Backup Server <br>
     technologies_used: |
       Mikrotik, Cisco, Ruijie, Unifi, Proxmox, Zabbix, The Dude, Ubuntu
   
