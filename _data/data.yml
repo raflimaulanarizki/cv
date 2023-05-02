@@ -1,88 +1,100 @@
-name: John Doe
+name: Muhamad Rafli Maulana Rizki
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: raflimaulanarizki8@gmail.com
+  github: raflimaulanarizki
+  linkedin: raflimaulanarizki
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Network Information Systems and Applications
+    time: 2019-2023
+    university: SMKN 1 Cibinong
 
 skills:
-  - category: Backend
+  - category: Network
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Mikrotik
+      - Cisco
+      - Ubiquiti
+      - Ruijie
+  - category: System
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Ubuntu
+      - Debian
+      - CentOS
+
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  My name is Rafli, I graduated from the network information systems and applications in 2023. 
+  I have a character who always wants to try new things, and always tries to work hard and 
+  is responsible for maximizing what I do. Able to work with a team or individually.
+  very easy to socialize
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: Junior Network Administrator
     time: 2020-Present
-    company: Google
+    company: SMKN 1 Cibinong
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      - Network cable management
+      - Make sure all networks are running well
+      - Perform network troubleshoot
+      - Fiber optic installation in each department for internet distribution
+      - Operate PROXMOX virtualization
+      - Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, Bridging, Load Balance)
+      - Provisioning Access Point using UniFi Controller & Ruijie Cloud
+      - Network device maintenance (Mikrotik, Cisco, UniFi, Server, Ruijie)
+      - Network installation for preparation of UTBK 2022 in every classroom using unifi
+      - Install public network for LKS (Cyber Security & Web Admin) competition
+      - Network installation for preparation of PAS 2022/2023 in every classroom using Unifi & Ruijie
+      - Network monitoring using The Dude
+      - Make the Network topology of SMKN 1 Cibinong in Visio
+      - install controller unifi version 7 on ubuntu server
+      - Migration of unifi controller version 5 to version 7
+      - Install monitoring zabbix for SMKN 1 cibinong
+      - integrate zabbix with telegram and grafana
+      - Install Proxmox Virtualization on Dell EMC and Proxmox Backup Server on Dell R530 Servers.
+    technologies_used: |
+      Mikrotik, Cisco, Ruijie, Unifi, Proxmox, Zabbix, The Dude, Ubuntu
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Network Operation Center
+    time: 2022-2023
+    company: PT. Jaya Komunikasi Indonesia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Perform Network Troubleshoot
+      - Network installation for new customer
+      - Perform check if packet loss happen 
+      - Handle Customers Complain 24x7 via Email, Call, WA
+      - Manage Core Router with 400+ active customer
+      - Manage Core, Distribution Router and Switch
+      - Network configuration on Mikrotik Device (PPTP, L2TP, SSTP, VLAN, Bridge, Firewall, NAT)
+      - Network configuration on Switch Cisco (VLAN, Inter Connection, Trunk)
+      - Network monitoring using Zabbix, MRTG, The Dude, LibreNMS
+      - OS Ticket installation on Ubuntu Server LTS 20.04
+      - Update Public IP Management
+      - Mikbotam Hotspot installation
+      - Backbone repair in Data Center
+      - Create a Backbone Topology
+      - Operate PROXMOX & VMWARE Esxi virtualization
+      - Install the LibreNMS and Observium monitoring applications on Linux
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Mikrotik, Cisco, The Dude, Cacti, Zabbix, LibreNMS, Proxmox, VMWare, IPAM
 
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
     authors: John E. Doe
     conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
   - title: Cool Project 
@@ -104,5 +116,3 @@ volunteering:
     company: Some random organization
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
