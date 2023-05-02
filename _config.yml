@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 plugins:
-    - jekyll-minifier
+  - jekyll-minifier
 
 exclude:
   - docker-compose.yml

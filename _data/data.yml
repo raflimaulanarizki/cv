@@ -92,7 +92,7 @@ experience:
     technologies_used: | 
       Mikrotik, Cisco, The Dude, Cacti, Zabbix, LibreNMS, Proxmox, VMWare, IPAM
 
-    - role: Beasiswa Bootcamp Cisco
+  - role: Beasiswa Bootcamp Cisco
     time: June - October 2022
     company: ID-Networkers
     details: |
@@ -103,7 +103,7 @@ experience:
     technologies_used: | 
       Cisco
 
-    - role: Beasiswa Bootcamp Linux
+  - role: Beasiswa Bootcamp Linux
     time: February - March 2023
     company: ID-Networkers
     details: |
