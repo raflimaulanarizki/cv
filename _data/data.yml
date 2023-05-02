@@ -15,7 +15,7 @@ languages:
   - idiom: English
 
 education:
-  - degree: Network Information Systems and Applications
+  - degree: Network Information Systems <br> and Applications
     time: 2019-2023
     university: SMKN 1 Cibinong
 
@@ -47,23 +47,23 @@ experience:
     company: SMKN 1 Cibinong
     details: |
       - Network cable management <br>
-      - Make sure all networks are running well
-      - Perform network troubleshoot
-      - Fiber optic installation in each department for internet distribution
-      - Operate PROXMOX virtualization
-      - Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, Bridging, Load Balance)
-      - Provisioning Access Point using UniFi Controller & Ruijie Cloud
-      - Network device maintenance (Mikrotik, Cisco, UniFi, Server, Ruijie)
-      - Network installation for preparation of UTBK 2022 in every classroom using unifi
-      - Install public network for LKS (Cyber Security & Web Admin) competition
-      - Network installation for preparation of PAS 2022/2023 in every classroom using Unifi & Ruijie
-      - Network monitoring using The Dude
-      - Make the Network topology of SMKN 1 Cibinong in Visio
-      - install controller unifi version 7 on ubuntu server
-      - Migration of unifi controller version 5 to version 7
-      - Install monitoring zabbix for SMKN 1 cibinong
-      - integrate zabbix with telegram and grafana
-      - Install Proxmox Virtualization on Dell EMC and Proxmox Backup Server on Dell R530 Servers.
+      - Make sure all networks are running well <br>
+      - Perform network troubleshoot <br>
+      - Fiber optic installation in each department for internet distribution <br>
+      - Operate PROXMOX virtualization <br>
+      - Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, Bridging, Load Balance) <br>
+      - Provisioning Access Point using UniFi Controller & Ruijie Cloud <br> 
+      - Network device maintenance (Mikrotik, Cisco, UniFi, Server, Ruijie) <br>
+      - Network installation for preparation of UTBK 2022 in every classroom using unifi <br>
+      - Install public network for LKS (Cyber Security & Web Admin) competition <br>
+      - Network installation for preparation of PAS 2022/2023 in every classroom using Unifi & Ruijie <br>
+      - Network monitoring using The Dude <br>
+      - Make the Network topology of SMKN 1 Cibinong in Visio <br>
+      - install controller unifi version 7 on ubuntu server <br>
+      - Migration of unifi controller version 5 to version 7 <br>
+      - Install monitoring zabbix for SMKN 1 cibinong <br>
+      - integrate zabbix with telegram and grafana <br>
+      - Install Proxmox Virtualization on Dell EMC and Proxmox Backup Server on Dell R530 Servers. <br>
     technologies_used: |
       Mikrotik, Cisco, Ruijie, Unifi, Proxmox, Zabbix, The Dude, Ubuntu
   
@@ -71,22 +71,22 @@ experience:
     time: 2022-2023
     company: PT. Jaya Komunikasi Indonesia
     details: |
-      - Perform Network Troubleshoot
-      - Network installation for new customer
-      - Perform check if packet loss happen 
-      - Handle Customers Complain 24x7 via Email, Call, WA
-      - Manage Core Router with 400+ active customer
-      - Manage Core, Distribution Router and Switch
-      - Network configuration on Mikrotik Device (PPTP, L2TP, SSTP, VLAN, Bridge, Firewall, NAT)
-      - Network configuration on Switch Cisco (VLAN, Inter Connection, Trunk)
-      - Network monitoring using Zabbix, MRTG, The Dude, LibreNMS
-      - OS Ticket installation on Ubuntu Server LTS 20.04
-      - Update Public IP Management
-      - Mikbotam Hotspot installation
-      - Backbone repair in Data Center
-      - Create a Backbone Topology
-      - Operate PROXMOX & VMWARE Esxi virtualization
-      - Install the LibreNMS and Observium monitoring applications on Linux
+      - Perform Network Troubleshoot <br>
+      - Network installation for new customer <br>
+      - Perform check if packet loss happen  <br>
+      - Handle Customers Complain 24x7 via Email, Call, WA <br>
+      - Manage Core Router with 400+ active customer <br>
+      - Manage Core, Distribution Router and Switch <br>
+      - Network configuration on Mikrotik Device (PPTP, L2TP, SSTP, VLAN, Bridge, Firewall, NAT) <br>
+      - Network configuration on Switch Cisco (VLAN, Inter Connection, Trunk) <br>
+      - Network monitoring using Zabbix, MRTG, The Dude, LibreNMS <br>
+      - OS Ticket installation on Ubuntu Server LTS 20.04 <br>
+      - Update Public IP Management <br>
+      - Mikbotam Hotspot installation <br>
+      - Backbone repair in Data Center <br>
+      - Create a Backbone Topology <br>
+      - Operate PROXMOX & VMWARE Esxi virtualization <br>
+      - Install the LibreNMS and Observium monitoring applications on Linux <br>
     technologies_used: | 
       Mikrotik, Cisco, The Dude, Cacti, Zabbix, LibreNMS, Proxmox, VMWare, IPAM
 
