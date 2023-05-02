@@ -15,8 +15,7 @@ languages:
   - idiom: English
 
 education:
-  - degree: Network Information Systems 
-            and Applications
+  - degree: Network Information Systems and Applications
     time: 2019-2023
     university: SMKN 1 Cibinong
 
@@ -46,8 +45,8 @@ experience:
   - role: Junior Network Administrator
     time: 2020-Present
     company: SMKN 1 Cibinong
-    details: 
-      - Network cable management 
+    details: |
+      - Network cable management <br>
       - Make sure all networks are running well
       - Perform network troubleshoot
       - Fiber optic installation in each department for internet distribution
