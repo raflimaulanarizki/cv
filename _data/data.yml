@@ -108,7 +108,7 @@ experience:
     company: ID-Networkers
     details: |
       - Learn the basics of Linux, FTP Server, Web server (Apache) Virtualhost, DNS Server (Bind9), SSH, LAMPP (Apache, MySQL/MariaDB, PHP),
-      PHPMyAdmin and Wordpress Installation, Load Balancer (HAProxy), Proxy Server ( Squid ), OpenSSL, Samba, Crontab, IPTables, Bash Scripting
+      PHPMyAdmin and Wordpress Installation, Load Balancer (HAProxy), Proxy Server ( Squid ), OpenSSL, Samba, Crontab, IPTables, Bash Scripting <br>
       - Create weekly reports with various Linux Materials <br>
       - Completed the final bootcamp assignment, namely making Bash Script automatic, creating a Web Server Vhost of 50 hosts and each vhost has a
       different subdomain. <br>
@@ -183,19 +183,23 @@ volunteering:
   - time: November 2022
     role: 1nd Winner Computer Networking DINAMIK#17
     company: Universitas Pendidikan Indonesia, Bandung
-    details: 
+    details:
+    link: "https://drive.google.com/file/d/1A5Ee-wEnZb0aa30-vM_o8s7Zj9BUSApE/view?usp=sharing"
 
   - time: September 2022
     role: 3nd Winner IT FEST Network Competition
     company: IDN Boarding School Indonesia, Jonggol
     details: 
+    link: "https://drive.google.com/file/d/1xQ9V2S1WGt687G5vAbr0E1ayQydDTAy0/view?usp=sharing"
   
   - time: November 2022
     role: 3nd Winner TKJ Packet Tracer Integer#4
     company: Universitas Pendidikan Ganesha Indonesia, Bali
     details: 
+    link: "https://drive.google.com/file/d/1gatF3UGXLkmRY6O--B3TXToH2gqZPmfQ/view?usp=sharing"
 
   - time: Oktober 2022
     role: 3nd rank Bootcamp Cisco (CCNA)
     company: ID-Networkers
     details: 
+    link: "https://drive.google.com/file/d/1kHR1Bv8jmdgrWFgTM09P0VhE4Qb4wXD_/view?usp=sharing"
