@@ -92,26 +92,69 @@ experience:
     technologies_used: | 
       Mikrotik, Cisco, The Dude, Cacti, Zabbix, LibreNMS, Proxmox, VMWare, IPAM
 
+#Certification
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Mikrotik Certified Network Associate (MTCNA)
+    link: "https://drive.google.com/file/d/1kcV-b2YVJpPRYtkg-ijnUTix3bXPipx0/view"
+    authors: 
+    conference: 
+
+  - title: CompTIA PenTest+
+    link: "https://www.credly.com/badges/7b4ee2e0-5efc-4b44-9402-b2acea7bd32e?source=linked_in_profile"
+    authors: 
+    conference: 
+
+  - title: NSE 1 Network Security Associate
+    link: "https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=6ZZgdYovO7&qrcode=1"
+    authors: 
+    conference: 
+
+  - title: "CCNA: Introduction to Networks"
+    link: "https://www.credly.com/badges/35e74416-9c4a-4f77-8946-2375718c5a57?source=linked_in_profile"
+    authors: 
+    conference: 
+
+  - title: "CCNA: Switching, Routing, and Wireless Essentials"
+    link: "https://www.credly.com/badges/1d5681cd-9658-468a-baf3-7b51b8bf9fd5/public_url"
+    authors: 
+    conference: 
+
+  - title: "CCNA: Enterprise Networking, Security, and Automation"
+    link: "https://www.credly.com/badges/761ac2c0-6db4-4203-8ccd-a972efcd42ee/linked_in_profile"
+    authors: 
+    conference: 
 
 projects:
-  - title: Cool Project 
+  - title: Cisco Networking
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      <br>
+      VLAN, VLAN Trunk, Native VLAN, Neighbor Discovery (CDP & LLDP), Inter-VLAN, STP, PVSTP, RSTP,
+Portfast, BPDU Guard, Port Security, VTP, Etherchannel PAgP/LACP, IGP, Static Route, EIGRP, OSPF,
+RIP, Redistribution, NAT, PAT, FHRP, Standard ACL, Extended ACL, GRE Tunnel, DHCP, Telnet, SSH, NTP
 
-  - title: Cool Project 
+  - title: Mikrotik Networking
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      <br>
+      Basic Cofiguration, DHCP, NAT, Static Routing, Firewall Filter, Tunnel (PPTP, L2TP, SSTP, OpenVPN, EoIP, IPIP),
+PPPoE, Limit Bandwith, Wireless, Bridging, SSH, Telnet, NTP, VLAN, Bonding, Mangel, Fail Over,
+Load Balance (ECMP, PCC), Auto Backup Config to Email, Hotspot
 
-# Volunteering
+  - title: Monitoring
+    link: #
+    details: |
+      <br>
+      The Dude, MRTG Cacti, Zabbix, Observium, LibreNMS
+
+  - title: System
+    link: #
+    details: |
+      <br>
+      FTP Server, Web server, DHCP Server, DNS Server with Bind9, SSH, LAMPP (Apache, MySQL/MariaDB, PHP),
+Load Balancer (HAProxy), Proxy Server (Squid), Samba, Crontab, IPTables, Bash Scripting, Deploy Laravel
+
+# Achievement
 volunteering:
   - time: November 2022
     role: 1nd Winner Computer Networking DINAMIK#17
