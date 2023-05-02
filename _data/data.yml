@@ -92,6 +92,30 @@ experience:
     technologies_used: | 
       Mikrotik, Cisco, The Dude, Cacti, Zabbix, LibreNMS, Proxmox, VMWare, IPAM
 
+    - role: Beasiswa Bootcamp Cisco
+    time: June - October 2022
+    company: ID-Networkers
+    details: |
+      - Learn about Cisco basics, Network Fundamentals, IPv4/IPv6 basics, Switching (VLAN, Trunk, MLS, STP), Routing (OSPF, EIGRP, RIP),
+        Cisco Wireless Basics, Infrastructure Management, Network Automation <br>
+      - Make weekly reports with various CCNA materials <br>
+      - Complete Bootcamp Final Exam (Lab Packet Tracer) to get Free CCNA Certification <br>
+    technologies_used: | 
+      Cisco
+
+    - role: Beasiswa Bootcamp Linux
+    time: February - March 2023
+    company: ID-Networkers
+    details: |
+      - Learn the basics of Linux, FTP Server, Web server (Apache) Virtualhost, DNS Server (Bind9), SSH, LAMPP (Apache, MySQL/MariaDB, PHP),
+      PHPMyAdmin and Wordpress Installation, Load Balancer (HAProxy), Proxy Server ( Squid ), OpenSSL, Samba, Crontab, IPTables, Bash Scripting
+      - Create weekly reports with various Linux Materials <br>
+      - Completed the final bootcamp assignment, namely making Bash Script automatic, creating a Web Server Vhost of 50 hosts and each vhost has a
+      different subdomain. <br>
+    technologies_used: | 
+      Debian
+
+
 #Certification
 publications:
   - title: Mikrotik Certified Network Associate (MTCNA)
