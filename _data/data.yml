@@ -24,6 +24,7 @@ skills:
     skill: 
       - Mikrotik
       - Cisco
+      - Juniper
       - Ubiquiti
       - Ruijie
   - category: System
@@ -42,6 +43,22 @@ profile: |
 
 # Experience
 experience:
+  - role: Network Operations Center Engineer
+    time: 2023-Present
+    company: PT. Arsen Kusuma Indonesia
+    details: |
+     - Daily Monitoring (The dude, Zabbix, Cacti) <br>
+     - Device Configuration (Juniper, Cisco, Mikrotik, ZTE OLT, Planet, Dell EMC) <br>
+     - Routing Protocols (BGP & OSPF) <br>
+     - Troubleshooting <br>
+     - Network Maintenance & Migration <br>
+     - Manage Service (Private Network, IP Transit, Colocation, FTTx, IPv6) <br>
+     - Manage Server (DNS Server “Powerdns & Bind9”, Nextcloud Storage) <br>
+     - Manage virtualization (Proxmox & VMware ESXi) <br>
+     - Project 464XLAT <br>
+    technologies_used: |
+      Mikrotik, Cisco, Juniper, FTTx 
+
   - role: Junior Network Administrator
     time: 2020-Present
     company: SMKN 1 Cibinong
@@ -118,34 +135,39 @@ experience:
 
 #Certification
 publications:
+  - title: Cisco Ccertified Network Associate (CCNA)
+    link: "https://www.credly.com/badges/4e25cfef-9623-4cec-a8c7-3639fae27153/linked_in_profile"
+    authors: Cisco
+    conference: |
+
   - title: Mikrotik Certified Network Associate (MTCNA)
     link: "https://drive.google.com/file/d/1kcV-b2YVJpPRYtkg-ijnUTix3bXPipx0/view"
-    authors: 
+    authors: Mikrotik
     conference: |
 
   - title: CompTIA PenTest+
     link: "https://www.credly.com/badges/7b4ee2e0-5efc-4b44-9402-b2acea7bd32e?source=linked_in_profile"
-    authors: 
+    authors: CompTIA
     conference: |
 
   - title: NSE 1 Network Security Associate
     link: "https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=6ZZgdYovO7&qrcode=1"
-    authors: 
+    authors: Fortinet
     conference: |
 
   - title: "CCNA: Introduction to Networks"
     link: "https://www.credly.com/badges/35e74416-9c4a-4f77-8946-2375718c5a57?source=linked_in_profile"
-    authors: 
+    authors: Cisco
     conference: |
 
   - title: "CCNA: Switching, Routing, and Wireless Essentials"
     link: "https://www.credly.com/badges/1d5681cd-9658-468a-baf3-7b51b8bf9fd5/public_url"
-    authors: 
+    authors: Cisco
     conference: |
 
   - title: "CCNA: Enterprise Networking, Security, and Automation"
     link: "https://www.credly.com/badges/761ac2c0-6db4-4203-8ccd-a972efcd42ee/linked_in_profile"
-    authors: 
+    authors: Cisco
     conference: |
 
 projects:
