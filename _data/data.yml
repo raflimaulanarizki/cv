@@ -48,12 +48,12 @@ experience:
     company: PT. Arsen Kusuma Indonesia
     details: |
      - Daily Monitoring (The dude, Zabbix, Cacti) <br>
-     - Device Configuration (Juniper, Cisco, Mikrotik, ZTE OLT, Planet, Dell EMC) <br>
+     - Device Configuration (Juniper, Cisco, Ruijie, Mikrotik, ZTE OLT, Planet, Dell EMC, Vyos, FRR, PfSense/OPNSense) <br>
      - Routing Protocols (BGP & OSPF) <br>
-     - Troubleshooting <br>
+     - Troubleshooting L2,L3 & L4 <br>
      - Network Maintenance & Migration <br>
-     - Manage Service (Private Network, IP Transit, Colocation, FTTx, IPv6) <br>
-     - Manage Server (DNS Server “Powerdns & Bind9”, Nextcloud Storage) <br>
+     - Manage Service (Private Network, IP Transit, Colocation, FTTx, IPv6, QinQ) <br>
+     - Manage Server (DNS Server “Powerdns & Bind9”, Nextcloud Storage, Mail Server Zimbra & Carbonio, Proxmox Mail Gateway) <br>
      - Manage virtualization (Proxmox & VMware ESXi) <br>
      - Project 464XLAT <br>
     technologies_used: |
