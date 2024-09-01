@@ -175,17 +175,19 @@ projects:
     link: #
     details: |
       
-      VLAN, VLAN Trunk, Native VLAN, Neighbor Discovery (CDP & LLDP), Inter-VLAN, STP, PVSTP, RSTP,
-      Portfast, BPDU Guard, Port Security, VTP, Etherchannel PAgP/LACP, IGP, Static Route, EIGRP, OSPF,
-      RIP, Redistribution, NAT, PAT, FHRP, Standard ACL, Extended ACL, GRE Tunnel, DHCP, Telnet, SSH, NTP
+      VLAN, VLAN Trunk, Native VLAN, Neighbor Discovery (CDP & LLDP), Inter-VLAN, STP, PVSTP, RSTP, Portfast, BPDU Guard, Port Security, VTP, Etherchannel PAgP/LACP, IGP, Static Route, EIGRP, OSPF, RIP, Redistribution, NAT, PAT, FHRP, Standard ACL, Extended ACL, GRE Tunnel, DHCP, Telnet, SSH, NTP, Port Mirroring, QinQ Tunnel
 
   - title: Mikrotik Networking
     link: #
     details: |
       
-      Basic Cofiguration, DHCP, NAT, Static Routing, Firewall Filter, Tunnel (PPTP, L2TP, SSTP, OpenVPN, EoIP, IPIP),
-      PPPoE, Limit Bandwith, Wireless, Bridging, SSH, Telnet, NTP, VLAN, Bonding, Mangel, Fail Over,
-      Load Balance (ECMP, PCC), Auto Backup Config to Email, Hotspot
+      Basic Cofiguration, DHCP, NAT, Static Routing, Firewall Filter, Tunnel (PPTP, L2TP, SSTP, OpenVPN, EoIP, IPIP), PPPoE, Limit Bandwith, Wireless, Bridging, SSH, Telnet, NTP, VLAN, Bonding, Mangel, Fail Over, Load Balance (ECMP, PCC), Auto Backup Config to Email, Hotspot, BGP/OSPF
+
+  - title: Juniper Networking
+    link: #
+    details: |
+      
+      Basic Cofiguration, VLAN, Inter-VLAN, LACP, ERPS (Ring Network), Port Mirroring, QinQ Tunnel, Auto Backup Config, Limit Bandwith
 
   - title: Monitoring
     link: #
@@ -197,8 +199,13 @@ projects:
     link: #
     details: |
       
-      FTP Server, Web server, DHCP Server, DNS Server with Bind9, SSH, LAMPP (Apache, MySQL/MariaDB, PHP),
-      Load Balancer (HAProxy), Proxy Server (Squid), Samba, Crontab, IPTables, Bash Scripting, Deploy Laravel
+      FTP Server, Web server, DHCP Server, DNS Server with Bind9, SSH, LAMPP (Apache, MySQL/MariaDB, PHP), Load Balancer (HAProxy), Proxy Server (Squid), Samba, Crontab, IPTables, Bash Scripting, Deploy Laravel, Proxmox, Mail Server (Zimbra & Carbonio), Proxmox Mail Gateway, Radius
+
+  - title: Others
+    link: #
+    details: |
+      
+      Vyos, FRR, IPv6, Ruijie, Ubiquiti, Perle, FTTX, OLT, TP-Link
 
 # Achievement
 volunteering:
