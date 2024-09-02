@@ -44,8 +44,20 @@ profile: |
 
 # Experience
 experience:
+  - role: BMS Network - BDx Data Center Indonesia
+    time: January - Present
+    company: PT. Arsen Kusuma Indonesia
+    details: |
+      • Create a redundant network topology using juniper and perle 
+      • Create a virtual chassis for 2/3 Juniper Switches
+      • Configure all Switch (Setup Trunk, Access, LACP, ERPS, Active/Stanby)
+      • Maintenance and ensuring that the network runs well and does not loop due to human error
+      • BMS Network Settings in 4 BDX Data Center (KPPTI, TBS, TKP, JAH)
+    technologies_used: |
+      Juniper, Perle 
+
   - role: Network Operations Center Engineer
-    time: 2023-Present
+    time: 2023 - Present
     company: PT. Arsen Kusuma Indonesia
     details: |
      - Daily Monitoring (The dude, Zabbix, Cacti) <br>
@@ -61,7 +73,7 @@ experience:
       Mikrotik, Cisco, Juniper, FTTx 
 
   - role: Junior Network Administrator
-    time: 2020-Present
+    time: 2020 - Present
     company: SMKN 1 Cibinong
     details: |
       - Network cable management <br>
@@ -86,9 +98,30 @@ experience:
       - Install Proxmox Virtualization and Proxmox Backup Server <br>
     technologies_used: |
       Mikrotik, Cisco, Ruijie, Unifi, Proxmox, Zabbix, The Dude, Ubuntu
-  
+
+  - role: Network Consultant - ETLE Jakarta 
+    time: February - April 2024
+    company: Polda Metro Jaya
+    details: |
+      • Ensure the network is running normally and no looping occurs <br>
+      • Redesign network topology distribution network to site ETLE <br>
+      • Check duplicate IP <br>
+      • Check the site that has problems with its network <br>
+    technologies_used: | 
+      Mikrotik, Hikvision
+
+  - role: Network Consultant
+    time: February - March 2024
+    company: Kimia Farma
+    details: |
+      • Reconfigure all Access Point (Frequency Channel Adjustment) <br>
+      • Reconfigure all Switch (Setup Trunk, Access) <br>
+      • Router Configuration Adjustment (vlan, ip address, firewall) <br>
+    technologies_used: | 
+      Mikrotik, Unifi
+
   - role: Network Operation Center
-    time: 2022-2023
+    time: 2022 - 2023
     company: PT. Jaya Komunikasi Indonesia
     details: |
       - Perform Network Troubleshoot <br>
