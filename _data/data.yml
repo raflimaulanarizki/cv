@@ -60,15 +60,15 @@ experience:
     time: 2023 - Present
     company: PT. Arsen Kusuma Indonesia
     details: |
-     - Daily Monitoring (The dude, Zabbix, Cacti) <br>
-     - Device Configuration (Juniper, Cisco, Ruijie, Mikrotik, ZTE OLT, Planet, Dell EMC, Vyos, FRR, PfSense/OPNSense) <br>
-     - Routing Protocols (BGP & OSPF) <br>
-     - Troubleshooting L2,L3 & L4 <br>
-     - Network Maintenance & Migration <br>
-     - Manage Service (Private Network, IP Transit, Colocation, FTTx, IPv6, QinQ) <br>
-     - Manage Server (DNS Server “Powerdns & Bind9”, Nextcloud Storage, Mail Server Zimbra & Carbonio, Proxmox Mail Gateway) <br>
-     - Manage virtualization (Proxmox & VMware ESXi) <br>
-     - Project 464XLAT <br>
+     • Daily Monitoring (The dude, Zabbix, Cacti) <br>
+     • Device Configuration (Juniper, Cisco, Ruijie, Mikrotik, ZTE OLT, Planet, Dell EMC, Vyos, FRR, PfSense/OPNSense) <br>
+     • Routing Protocols (BGP & OSPF) <br>
+     • Troubleshooting L2,L3 & L4 <br>
+     • Network Maintenance & Migration <br>
+     • Manage Service (Private Network, IP Transit, Colocation, FTTx, IPv6, QinQ) <br>
+     • Manage Server (DNS Server “Powerdns & Bind9”, Nextcloud Storage, Mail Server Zimbra & Carbonio, Proxmox Mail Gateway) <br>
+     • Manage virtualization (Proxmox & VMware ESXi) <br>
+     • Project 464XLAT <br>
     technologies_used: |
       Mikrotik, Cisco, Juniper, FTTx 
 
@@ -76,26 +76,26 @@ experience:
     time: 2020 - Present
     company: SMKN 1 Cibinong
     details: |
-      - Network cable management <br>
-      - Make sure all networks are running well <br>
-      - Perform network troubleshoot <br>
-      - Fiber optic installation in each department for internet distribution <br>
-      - Operate PROXMOX virtualization <br>
-      - Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, <br>
+      • Network cable management <br>
+      • Make sure all networks are running well <br>
+      • Perform network troubleshoot <br>
+      • Fiber optic installation in each department for internet distribution <br>
+      • Operate PROXMOX virtualization <br>
+      • Network configuration on MikroTik router device (Firewall, NAT, VLAN, Bandwitch, <br>
       &nbsp&nbspBridging, Load Balance) <br>
-      - Provisioning Access Point using UniFi Controller & Ruijie Cloud <br> 
-      - Network device maintenance (Mikrotik, Cisco, UniFi, Server, Ruijie) <br>
-      - Network installation for preparation of UTBK 2022 in every classroom using unifi <br>
-      - Install public network for LKS (Cyber Security & Web Admin) competition <br>
-      - Network installation for preparation of PAS 2022/2023 in every classroom using <br> 
+      • Provisioning Access Point using UniFi Controller & Ruijie Cloud <br> 
+      • Network device maintenance (Mikrotik, Cisco, UniFi, Server, Ruijie) <br>
+      • Network installation for preparation of UTBK 2022 in every classroom using unifi <br>
+      • Install public network for LKS (Cyber Security & Web Admin) competition <br>
+      • Network installation for preparation of PAS 2022/2023 in every classroom using <br> 
       &nbsp&nbspUnifi & Ruijie <br>
-      - Network monitoring using The Dude <br>
-      - Make the Network topology of SMKN 1 Cibinong in Visio <br>
-      - install controller unifi version 7 on ubuntu server <br>
-      - Migration of unifi controller version 5 to version 7 <br>
-      - Install monitoring zabbix for SMKN 1 cibinong <br>
-      - integrate zabbix with telegram and grafana <br>
-      - Install Proxmox Virtualization and Proxmox Backup Server <br>
+      • Network monitoring using The Dude <br>
+      • Make the Network topology of SMKN 1 Cibinong in Visio <br>
+      • install controller unifi version 7 on ubuntu server <br>
+      • Migration of unifi controller version 5 to version 7 <br>
+      • Install monitoring zabbix for SMKN 1 cibinong <br>
+      • integrate zabbix with telegram and grafana <br>
+      • Install Proxmox Virtualization and Proxmox Backup Server <br>
     technologies_used: |
       Mikrotik, Cisco, Ruijie, Unifi, Proxmox, Zabbix, The Dude, Ubuntu
 
@@ -124,22 +124,22 @@ experience:
     time: 2022 - 2023
     company: PT. Jaya Komunikasi Indonesia
     details: |
-      - Perform Network Troubleshoot <br>
-      - Network installation for new customer <br>
-      - Perform check if packet loss happen  <br>
-      - Handle Customers Complain 24x7 via Email, Call, WA <br>
-      - Manage Core Router with 400+ active customer <br>
-      - Manage Core, Distribution Router and Switch <br>
-      - Network configuration on Mikrotik Device (PPTP, L2TP, SSTP, VLAN, Bridge, Firewall, NAT) <br>
-      - Network configuration on Switch Cisco (VLAN, Inter Connection, Trunk) <br>
-      - Network monitoring using Zabbix, MRTG, The Dude, LibreNMS <br>
-      - OS Ticket installation on Ubuntu Server LTS 20.04 <br>
-      - Update Public IP Management <br>
-      - Mikbotam Hotspot installation <br>
-      - Backbone repair in Data Center <br>
-      - Create a Backbone Topology <br>
-      - Operate PROXMOX & VMWARE Esxi virtualization <br>
-      - Install the LibreNMS and Observium monitoring applications on Linux <br>
+      • Perform Network Troubleshoot <br>
+      • Network installation for new customer <br>
+      • Perform check if packet loss happen  <br>
+      • Handle Customers Complain 24x7 via Email, Call, WA <br>
+      • Manage Core Router with 400+ active customer <br>
+      • Manage Core, Distribution Router and Switch <br>
+      • Network configuration on Mikrotik Device (PPTP, L2TP, SSTP, VLAN, Bridge, Firewall, NAT) <br>
+      • Network configuration on Switch Cisco (VLAN, Inter Connection, Trunk) <br>
+      • Network monitoring using Zabbix, MRTG, The Dude, LibreNMS <br>
+      • OS Ticket installation on Ubuntu Server LTS 20.04 <br>
+      • Update Public IP Management <br>
+      • Mikbotam Hotspot installation <br>
+      • Backbone repair in Data Center <br>
+      • Create a Backbone Topology <br>
+      • Operate PROXMOX & VMWARE Esxi virtualization <br>
+      • Install the LibreNMS and Observium monitoring applications on Linux <br>
     technologies_used: | 
       Mikrotik, Cisco, The Dude, Cacti, Zabbix, LibreNMS, Proxmox, VMWare, IPAM
 
@@ -147,10 +147,10 @@ experience:
     time: June - October 2022
     company: ID-Networkers
     details: |
-      - Learn about Cisco basics, Network Fundamentals, IPv4/IPv6 basics, Switching (VLAN, Trunk, MLS, STP), Routing (OSPF, EIGRP, RIP),
+      • Learn about Cisco basics, Network Fundamentals, IPv4/IPv6 basics, Switching (VLAN, Trunk, MLS, STP), Routing (OSPF, EIGRP, RIP),
         Cisco Wireless Basics, Infrastructure Management, Network Automation <br>
-      - Make weekly reports with various CCNA materials <br>
-      - Complete Bootcamp Final Exam (Lab Packet Tracer) to get Free CCNA Certification <br>
+      • Make weekly reports with various CCNA materials <br>
+      • Complete Bootcamp Final Exam (Lab Packet Tracer) to get Free CCNA Certification <br>
     technologies_used: | 
       Cisco
 
@@ -158,10 +158,10 @@ experience:
     time: February - March 2023
     company: ID-Networkers
     details: |
-      - Learn the basics of Linux, FTP Server, Web server (Apache) Virtualhost, DNS Server (Bind9), SSH, LAMPP (Apache, MySQL/MariaDB, PHP),
+      • Learn the basics of Linux, FTP Server, Web server (Apache) Virtualhost, DNS Server (Bind9), SSH, LAMPP (Apache, MySQL/MariaDB, PHP),
       PHPMyAdmin and Wordpress Installation, Load Balancer (HAProxy), Proxy Server ( Squid ), OpenSSL, Samba, Crontab, IPTables, Bash Scripting <br>
-      - Create weekly reports with various Linux Materials <br>
-      - Completed the final bootcamp assignment, namely making Bash Script automatic, creating a Web Server Vhost of 50 hosts and each vhost has a
+      • Create weekly reports with various Linux Materials <br>
+      • Completed the final bootcamp assignment, namely making Bash Script automatic, creating a Web Server Vhost of 50 hosts and each vhost has a
       different subdomain. <br>
     technologies_used: | 
       Debian
