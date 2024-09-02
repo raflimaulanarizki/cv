@@ -46,13 +46,13 @@ profile: |
 experience:
   - role: BMS Network - BDx Data Center Indonesia
     time: January - Present
-    company: PT. Arsen Kusuma Indonesia
+    company: PT. Netcom Scinergy Newsantara 
     details: |
-      • Create a redundant network topology using juniper and perle 
-      • Create a virtual chassis for 2/3 Juniper Switches
-      • Configure all Switch (Setup Trunk, Access, LACP, ERPS, Active/Stanby)
-      • Maintenance and ensuring that the network runs well and does not loop due to human error
-      • BMS Network Settings in 4 BDX Data Center (KPPTI, TBS, TKP, JAH)
+      • Create a redundant network topology using juniper and perle <br>
+      • Create a virtual chassis for 2/3 Juniper Switches <br>
+      • Configure all Switch (Setup Trunk, Access, LACP, ERPS, Active/Stanby) <br>
+      • Maintenance and ensuring that the network runs well and does not loop due to human error <br>
+      • BMS Network Settings in 4 BDX Data Center (KPPTI, TBS, TKP, JAH) <br>
     technologies_used: |
       Juniper, Perle 
 
