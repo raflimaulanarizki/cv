@@ -54,7 +54,7 @@ experience:
       • Maintenance and ensuring that the network runs well and does not loop due to human error <br>
       • BMS Network Settings in 4 BDX Data Center (KPPTI, TBS, TKP, JAH) <br>
     technologies_used: |
-      Juniper, Perle 
+      Juniper, Perle, Aruba
 
   - role: Network Operations Center Engineer
     time: 2023 - Present
